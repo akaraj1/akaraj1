@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3 and AI
 - 🌱 I’m currently learning B.Tech. CSE
 - 📫 How to reach me through:-
-      Insta :- @__aka___raz__
+      Insta :- @ __aka___raz__
       Linkedin :-https://www.linkedin.com/in/abul-kalam-azad-34526b328/
 
 

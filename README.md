@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Abul Kalam Azad aka Raz
 - 👀 I’m interested in Web3 and AI
-- 🌱 I’m currently learning B.Tech. CSE
+- 🌱 I’m currently finished B.Tech. CSE | Result Awaited
 - 📫 How to reach me through:-
      - Insta :- @__aka___raz__
      - Linkedin :-https://www.linkedin.com/in/abul-kalam-azad-34526b328/
+     - Email :- akazadraj3@gmail.com
+
 
 
 <!---
